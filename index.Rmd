@@ -1,7 +1,8 @@
 
-###  Transformations of random variables
-We have some questions here to solve. 
 
-$\underline{Question~1}:$
-Let $X\sim \Gamma{\alpha,\beta}$, then show that $Y=cX$ follows $\Gamma{\alpha,c\beta}$
+###  Introduction to Bayesian Inference
+
+Bayesian inference has become widely used in different disciplines, such as medicine, biology, clinical trials, bioinformatics, survival analysis, physics and so on.
+
+
 
