@@ -1,6 +1,4 @@
----
----
-title: "My Website"
----
-    
-Hello, Website! Welcome to the world.
+
+
+## Bayes linear
+In this paper 

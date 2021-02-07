@@ -1,10 +1,13 @@
 ---
-name: "my-website"
 navbar:
-  title: "My Website"
+  title: "My website"
   left:
-    - text: "Home"
-      href: index.html
+    - text: "Lecture 1"
+      href: lec1.html
+    - text: "Lecture 2"
+      href: lec2.html
+    - text: "Lecture 3"
+      href: lec3.html
     - text: "About"
       href: about.html
 ---
