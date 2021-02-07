@@ -1,10 +1,5 @@
----
-title: "lec1"
-author: "Wael"
-date: "7 February 2021"
-output: html_document
----
 
+### Statistics
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
