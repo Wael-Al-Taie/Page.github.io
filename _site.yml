@@ -1,6 +1,6 @@
 ---
 navbar:
-  title: "My website"
+  title: "Home"
   left:
     - text: "Lecture 1"
       href: lec1.html

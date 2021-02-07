@@ -1,3 +1,7 @@
 
-## Bayes linear
-In this paper 
+###  Transformations of random variables
+We have some questions here to solve. 
+
+$\underline{Question~1}:$
+Let $X\sim \Gamma{\alpha,\beta}$, then show that $Y=cX$ follows $\Gamma{\alpha,c\beta}$
+
